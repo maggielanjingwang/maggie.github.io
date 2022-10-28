@@ -1,0 +1,23 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: index
+options:
+  numbered: True
+chapters:
+- file: contents/01-introduction/introduction
+  sections:
+  - file: contents/01-introduction/contributing-members
+  - file: contents/01-introduction/registry-list
+- file: contents/02-getting_started/getting_started
+  sections:
+  - file: contents/02-getting_started/local_env_setup
+  - file: contents/02-getting_started/remote_server_setup
+- file: contents/03-general_coding_practice/general_coding_practice
+  sections:
+  - file: contents/03-general_coding_practice/django-commands.md
+  - file: contents/03-general_coding_practice/github_practices
+# - file: contents/08-common_errors/common-errors
+# - file: contents/10-changelog/changelog
+
