@@ -6,8 +6,15 @@ def my_function():
 
 def my_function1(fname):
   print(fname + " Refsnesssssssss" + "123123")
+  print(fname + " Refsnesssssssss" + "123123")
+  print(fname + " Refsnesssssssss" + "123123")
+  print(fname + " Refsnesssssssss" + "123123")
 
 
 def my_function2(fname):
   print(fname + " Refsnes")  
+
+def add_function(a,b):
+  return a+b
+
 
