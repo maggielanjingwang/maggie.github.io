@@ -1,7 +1,6 @@
 print("hello")
 # this is local branch 
 # new 123 line
-# new 123 line # new 123 line # new 123 line # new 123 line
 def my_function():
   if True :
    print("Hello from a function123")
