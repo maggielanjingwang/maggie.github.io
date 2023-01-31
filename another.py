@@ -10,6 +10,7 @@ def my_function1(fname):
 
 def my_function2(fname):
   print(fname + " Refsnes")  
+  print(fname + " Refsnesssssssss" + "123123")
 
 def add_function(a,b):
   return a+b
