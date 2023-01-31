@@ -7,3 +7,7 @@ def my_function():
 def my_function1(fname):
   print(fname + " Refsnes")
 
+
+def my_function2(fname):
+  print(fname + " Refsnes")  
+
